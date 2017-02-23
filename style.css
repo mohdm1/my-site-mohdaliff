@@ -1,0 +1,42 @@
+header {
+
+	font-size:48px;
+	color:black;
+	text-align:center;
+}
+
+h1 {
+
+	font-size:48px;
+	color:black;
+	text-align:center;
+}
+
+h2 {
+	font-size:20px;
+	color:black;
+	text-align:center;
+}
+
+
+p {
+	font-size:38px;
+	color:red;
+	text-align:center;
+}
+
+nav {
+	text-align:center;
+	
+	
+}
+
+footer {
+	text-align:center;
+}
+
+
+li {
+	font-size:18px;
+	text-align:center;
+}
